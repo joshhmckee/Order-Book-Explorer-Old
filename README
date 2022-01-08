@@ -1,0 +1,17 @@
+Packages to install:
+
+datetime
+dateutil
+pandas
+requests
+matplotlib
+numpy
+
+Note:
+Enter crypto's as "BTC" for Bitcoin or "ETH" for Ethereum. Be aware some smaller crypto's will not be available
+as they are not traded on the FTX exchange.
+
+Additional note:
+Larger dots on the bid/ask plot represent larger buy/sell orders. The larger the dot, the larger the order.
+
+
